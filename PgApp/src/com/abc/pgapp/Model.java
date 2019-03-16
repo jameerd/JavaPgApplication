@@ -10,8 +10,8 @@ public class Model
 {
 
 	private String url="jdbc:oracle:thin:@//localhost:1521/XE";
-	private String un="HR";
-	private String pw="ORACLE";
+	private String un=" ";
+	private String pw=" ";
 	private Connection con=null;
 	private PreparedStatement pstmt=null;
 
