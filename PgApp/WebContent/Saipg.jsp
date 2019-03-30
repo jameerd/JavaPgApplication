@@ -9,7 +9,7 @@
 <body>
 <h2>WELCOME TO SAI PG</h2>
 <ol>
-<li><a href="Saipgfeestructure.jsp">FEE-STRUCTURE</a><br><br>
+ <li><a href="Saipgfeestructure.jsp">FEE-STRUCTURE</a><br><br>
 <li><a href="Saipgfood.jsp">FOOD</a></li>
 </ol>
 </body>
